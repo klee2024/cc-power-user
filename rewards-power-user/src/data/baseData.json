@@ -1,0 +1,32 @@
+{
+    "rewardsCategories" : [{
+        "name" : "travel", 
+        "icon" : "/icons/entertainment-icon.png",
+        "backgroundColor" : "#C6DBDA"
+    },
+    {
+        "name" : "dining", 
+        "icon" : "/icons/restaurant-icon.png",
+        "backgroundColor" : "#ABDEE6"
+    },
+    {
+        "name" : "grocery", 
+        "icon" : "/icons/grocery-icon.png",
+        "backgroundColor" :  "#B6CFB6"
+    },
+    {
+        "name" : "entertainment", 
+        "icon" : "/icons/entertainment-icon.png",
+        "backgroundColor" : "#ECD5E3"
+    },
+    {
+        "name" : "gas", 
+        "icon" : "/icons/gas-icon.png",
+        "backgroundColor" : "#FFC8A2"
+    },
+    {
+        "name" : "other", 
+        "icon" : "/icons/other-icon.png",
+        "backgroundColor" : "#FEE1E8"
+    }]
+}
